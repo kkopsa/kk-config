@@ -1,0 +1,12 @@
+[user]
+        name = Kevin Kopsa
+        email = my@email.com
+[alias]
+        ci = commit
+        st = status
+        br = branch
+        co = checkout
+[core]
+        editor = vim
+[credential]
+        helper = cache
